@@ -38,3 +38,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Ignorar el cache de angular en el push
+Project1/View/.angular/cache/15.2.7/angular-webpack/82209dfc455fd95965857c8b02b4d8725b20f3ef/0.pack
+
