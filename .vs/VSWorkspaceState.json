@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\Project1",
+    "\\Project1\\Controllers",
+    "\\Project1\\Models",
     "\\Project1\\View",
     "\\Project1\\View\\src",
     "\\Project1\\View\\src\\app",
     "\\Project1\\View\\src\\app\\home",
     "\\Project1\\wwwroot"
   ],
-  "SelectedNode": "\\Project1\\Proyecto-ferreteria.csproj",
+  "SelectedNode": "\\Project1\\Models\\Class.cs",
   "PreviewInSolutionExplorer": false
 }
